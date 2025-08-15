@@ -65,3 +65,22 @@ Hi! My name is Akhil Kulkarni. 😎
 > Feel free to reach out if you'd like to collaborate or learn more about our work!
 
 <p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+
+
+<!-- About Me Section -->
+## About Me!
+
+<!-- Tennis Racket Button -->
+<a href="https://upload.wikimedia.org/wikipedia/commons/3/3d/Tennis_Racket_and_Balls.jpg" class="button small" style="background-color: #E91E63; margin-top: 10px;">
+    <span style="color: #FFFFFF">Tennis Racket</span>
+</a>
+
+<!-- Pool Button -->
+<a href="https://upload.wikimedia.org/wikipedia/commons/0/0e/Swimming_pool_with_lane_markings.jpg" class="button small" style="background-color: #2196F3; margin-top: 10px;">
+    <span style="color: #FFFFFF">Pool</span>
+</a>
+
+<!-- Picture of Code Button -->
+<a href="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript_code.png" class="button small" style="background-color: #4CAF50; margin-top: 10px;">
+    <span style="color: #FFFFFF">Code</span>
+</a>
