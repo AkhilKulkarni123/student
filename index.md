@@ -40,6 +40,11 @@ Hi! My name is Akhil Kulkarni. 😎
     <span style="color: #FFFFFF">This is what I learned today</span>
 </a>
 
+<!-- New button for past game -->
+<a href="https://akhilkulkarni123.github.io/Akhil_2025_1/gamify/adventureGame" class="button small" style="background-color: #FF9800; margin-top: 10px;">
+    <span style="color: #FFFFFF">My Past Game</span>
+</a>
+
 <br>
 
 
