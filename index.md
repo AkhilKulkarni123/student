@@ -35,7 +35,13 @@ Hi! My name is [Your Full Name].
     <span style="color: #FFFFFF">VSCODE</span>
 </a>
 
+<!-- New button for today's learning -->
+<a href="https://www.markdownguide.org/cheat-sheet/" class="button small" style="background-color: #4CAF50; margin-top: 10px;">
+    <span style="color: #FFFFFF">This is what I learned today</span>
+</a>
+
 <br>
+
 
 ### Class Progress
 
