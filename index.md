@@ -71,16 +71,16 @@ Hi! My name is Akhil R. Kulkarni. 😎
 ## About Me!
 
 <!-- Tennis Racket Button -->
-<a href="https://upload.wikimedia.org/wikipedia/commons/3/3d/Tennis_Racket_and_Balls.jpg" class="button small" style="background-color: #E91E63; margin-top: 10px;">
+<a href="https://nwscdn.com/media/wysiwyg/3kf/tennis/Well_Balanced_Tennis_Racket_For_Senior_Tennis_Players.jpg" class="button small" style="background-color: #E91E63; margin-top: 10px;">
     <span style="color: #FFFFFF">Tennis Racket</span>
 </a>
 
 <!-- Pool Button -->
-<a href="https://upload.wikimedia.org/wikipedia/commons/0/0e/Swimming_pool_with_lane_markings.jpg" class="button small" style="background-color: #2196F3; margin-top: 10px;">
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Backyardpool.jpg/1200px-Backyardpool.jpg" class="button small" style="background-color: #2196F3; margin-top: 10px;">
     <span style="color: #FFFFFF">Pool</span>
 </a>
 
 <!-- Picture of Code Button -->
-<a href="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript_code.png" class="button small" style="background-color: #4CAF50; margin-top: 10px;">
+<a href="https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg" class="button small" style="background-color: #4CAF50; margin-top: 10px;">
     <span style="color: #FFFFFF">Code</span>
 </a>
