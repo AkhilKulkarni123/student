@@ -6,7 +6,7 @@ hide: true
 
 ### Me and Team
 
-Hi! My name is Akhil Kulkarni. 😎
+Hi! My name is Akhil R. Kulkarni. 😎
 
 | Role         | Name     | Repo Location                       | Stream                | Repo Name |
 |--------------|----------|-------------------------------------|-----------------------|-----------|
