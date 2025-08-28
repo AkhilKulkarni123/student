@@ -85,7 +85,7 @@ Hi! My name is Akhil R. Kulkarni. 😎
     <span style="color: #FFFFFF">Code</span>
 </a>
 
-<a href="{{ site.baseurl }}/student/student/navigation/about.html" class="button small" style="background-color: #9C27B0; margin-top: 10px;">
+<a href="{{ site.baseurl }}/student/navigation/about.html" class="button small" style="background-color: #9C27B0; margin-top: 10px;">
     <span style="color: #FFFFFF">About Me</span>
 </a>
 
