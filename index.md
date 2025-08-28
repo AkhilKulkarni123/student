@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: default
 title: I'm [Your Full Name]
 hide: true
 ---
@@ -84,3 +84,8 @@ Hi! My name is Akhil R. Kulkarni. 😎
 <a href="https://techcrunch.com/wp-content/uploads/2015/04/codecode.jpg" class="button small" style="background-color: #4CAF50; margin-top: 10px;">
     <span style="color: #FFFFFF">Code</span>
 </a>
+
+<a href="{{ site.baseurl }}/student/student/navigation/about.html" class="button small" style="background-color: #9C27B0; margin-top: 10px;">
+    <span style="color: #FFFFFF">About Me</span>
+</a>
+
