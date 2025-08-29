@@ -1,6 +1,6 @@
 ---
 layout: default
-title: I'm [Your Full Name]
+title: I'm Akhil Kulkarni!
 hide: true
 ---
 
