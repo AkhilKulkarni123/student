@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blogs
 title: Blogs
 search_exclude: true
 permalink: /blogs/
