@@ -106,7 +106,7 @@ permalink: /background
       // Create floating/bobbing animation using sine wave
       update() {
         // Oscillate up and down around base position
-        this.y = this.baseY + Math.sin(this.frame * 0.05) * 20;
+        this.y = this.baseY + Math.sin(this.frame * 0.3) * 50;
         this.frame++; // Increment frame for continuous animation
       }
     }
